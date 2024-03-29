@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Alt](vein_tag.png)
  
 ## Skills:
